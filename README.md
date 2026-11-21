@@ -1,190 +1,226 @@
-<!-- ===================================================================== -->
-<!-- BANNER PRINCIPAL // SYSTEM BOOT                                       -->
-<!-- ===================================================================== -->
-<div align="center">
-  <img width="100%" src="https://vercel.app"/>
-</div>
+<!-- ====================================================== -->
 
-<!-- ===================================================================== -->
-<!-- TYPING ANIMATION // HUD TERMINAL                                      -->
-<!-- ===================================================================== -->
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com." alt="Typing SVG" />
-  </a>
-</div>
+<!-- J.A.R.V.I.S. INTERFACE // GUILHERME OLIVEIRA RAMOS -->
 
-<br/>
+<!-- GitHub Profile README -->
 
-<!-- ===================================================================== -->
-<!-- BADGES DE CONEXÃO & STATUS                                            -->
-<!-- ===================================================================== -->
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com?tab=repositories" target="_blank">
-    <img src="https://shields.io" alt="Repositórios"/>
-  </a>
-  <img src="https://shields.io" alt="AWS"/>
-  <img src="https://komarev.com" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<img width="100%" src="https://vercel.app"/>
-
-<!-- ===================================================================== -->
-<!-- 01. SYSTEM PROFILE // SOBRE MIM                                       -->
-<!-- ===================================================================== -->
-## `> 01. SYSTEM_PROFILE // SOBRE MIM`
-
-```yaml
-IDENTITY:
-  Name: Guilherme Oliveira Ramos
-  Role: Desenvolvedor Back-end em Formação (Java & Spring)
-  Education: Análise e Desenvolvimento de Sistemas (ADS) — SENAI São Paulo (2026 - 2027)
-  Location: São Paulo, SP — Brasil 🇧🇷
-
-CERTIFICATIONS:
-  - AWS Academy Graduate - Cloud Foundations (Amazon Web Services)
-  - Fundamentos do Python 1 (SENAI São Paulo)
-
-DIRECTIVES:
-  - Desenvolver APIs REST seguras, escaláveis e bem estruturadas com Java e Spring Boot.
-  - Aplicar Orientação a Objetos, Clean Code, validações e arquitetura em camadas.
-  - Explorar Cloud Computing (AWS), Inteligência Artificial e robótica aplicada.
-```
-
-> *"Percepção, decisão e atuação rodando juntas em tempo real: transformar conceitos em sistemas concretos é o que move a engenharia de software."*
-
-<br/>
-
-<!-- ===================================================================== -->
-<!-- 02. ACTIVE TASKS // ROADMAP EM TERMINAL                               -->
-<!-- ===================================================================== -->
-## `> 02. ACTIVE_TASKS // OBJETIVOS ATUAIS`
-
-```bash
-root@jarvis-hud:~$ ./execute_roadmap.sh
-
-[████████████████████] 100%  ▸ Lógica de Programação & Python
-[████████████████████] 100%  ▸ AWS Cloud Foundations (Computação em Nuvem)
-[███████████████░░░░░]  75%  ▸ Java, Spring Boot, Spring Data JPA & APIs REST
-[████████████░░░░░░░░]  60%  ▸ Bancos de Dados Relacionais, Docker & Segurança (JWT)
-[██████████░░░░░░░░░░]  50%  ▸ Integração com IA & Sistemas Distribuídos
-
-STATUS: [READY] Aberto a oportunidades de Estágio / Júnior em Back-end.
-```
-
-<br/>
-
-<img width="100%" src="https://vercel.app"/>
-
-<!-- ===================================================================== -->
-<!-- 03. TECH ARSENAL // STACK & FERRAMENTAS                               -->
-<!-- ===================================================================== -->
-## `> 03. TECH_ARSENAL // STACK & FERRAMENTAS`
+<!-- ====================================================== -->
 
 <div align="center">
 
-### ⚡ Linguagens & Frameworks
-<p>
-  <img src="https://skillicons.dev" alt="Languages & Frameworks" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0891B2,100:00E5FF&height=200&section=header&text=GUILHERME%20OLIVEIRA%20RAMOS&fontSize=35&fontColor=00E5FF&fontAlignY=38&desc=BACK-END%20DEVELOPER%20%7C%20JAVA%20%7C%20CLOUD%20%7C%20AI&descAlignY=60&descSize=13&animation=twinkling" />
 
-### 🗄️ Bancos de Dados, Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev" alt="Cloud & DB" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+UNIVERSE;BACK-END+DEVELOPER+IN+PROGRESS;JAVA+%7C+SPRING+BOOT+%7C+AWS;BUILDING+THE+FUTURE+WITH+CODE." />
 
-### 🛠️ IDEs & Ferramentas
-<p>
-  <img src="https://skillicons.dev" alt="Tools" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=black" />
+<img src="https://img.shields.io/badge/LOCATION-SAO_PAULO_BRAZIL-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-BACK--END-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" />
 
 </div>
 
-<br/>
+01 // SYSTEM_INITIALIZATION
+text
+╔══════════════════════════════════════════════════════╗
+║             J.A.R.V.I.S. INTERFACE v2.0             ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  > INITIALIZING NEURAL NETWORK............. [OK]     ║
+║  > LOADING DEVELOPER PROFILE............... [OK]     ║
+║  > CONNECTING TO GITHUB.................... [OK]     ║
+║  > LOADING TECHNOLOGY DATABASE............. [OK]     ║
+║  > SYNCHRONIZING DEVELOPMENT GOALS......... [OK]     ║
+║                                                      ║
+║  USER: GUILHERME OLIVEIRA RAMOS                      ║
+║  ROLE: BACK-END DEVELOPER IN TRAINING                ║
+║  STATUS: CONSTANTLY EVOLVING                         ║
+║                                                      ║
+║  [SYSTEM READY]                                      ║
+╚══════════════════════════════════════════════════════╝
 
-<img width="100%" src="https://vercel.app"/>
+02 // ABOUT_ME
 
-<!-- ===================================================================== -->
-<!-- 04. DEPLOYED MODULES // PROJETOS EM DESTAQUE                          -->
-<!-- ===================================================================== -->
-## `> 04. DEPLOYED_MODULES // PROJETOS EM DESTAQUE`
+<img align="right" width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com?tab=repositories">API REST com Java & Spring Boot</a></h3>
-      <p>Aplicação back-end estruturada em camadas (Controller, Service, Repository), persistência com Spring Data JPA, DTOs, validações e tratamento global de exceções.</p>
-      <p>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com?tab=repositories">Sistemas & Automação em Python</a></h3>
-      <p>Projetos focados em algoritmos, manipulação de dados, lógica estruturada e automação de processos em ambiente de linha de comando.</p>
-      <p>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-        <img src="https://shields.io"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Olá! Sou Guilherme Oliveira Ramos, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Back-end em formação.
 
-<br/>
+Minha jornada na programação é movida pela curiosidade, resolução de problemas e vontade de transformar ideias em soluções tecnológicas.
 
-<img width="100%" src="https://vercel.app"/>
+Atualmente, estou concentrando meus estudos no ecossistema Java, principalmente no desenvolvimento de APIs REST com Spring Boot, arquitetura de software, bancos de dados e computação em nuvem.
 
-<!-- ===================================================================== -->
-<!-- 05. ACHIEVEMENTS // TROFÉUS GITHUB                                    -->
-<!-- ===================================================================== -->
-## `> 05. ACHIEVEMENTS // CONQUISTAS`
+Tenho interesse especial em:
+
+Desenvolvimento Back-end e arquitetura de sistemas.
+Java, Spring Boot e APIs REST.
+Cloud Computing e AWS.
+Inteligência Artificial e automação.
+Robótica e sistemas distribuídos.
+Boas práticas, Clean Code e segurança.
+
+Minha filosofia: não quero apenas escrever código. Quero construir soluções eficientes, escaláveis e inteligentes.
+
+<br clear="right"/>
+
+03 // TECHNOLOGY_STACK
 
 <div align="center">
-  <a href="https://github.com">
-    <img width="100%" src="https://vercel.app" alt="GitHub Trophies" />
-  </a>
+
+⚡ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+
+🚀 Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs&theme=dark" />
+
+🗄️ Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker&theme=dark" />
+
+🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux&theme=dark" />
+
 </div>
 
-<br/>
-
-<!-- ===================================================================== -->
-<!-- 06. TELEMETRY DATA // ESTATÍSTICAS & MÉTRICAS                         -->
-<!-- ===================================================================== -->
-## `> 06. TELEMETRY_DATA // ESTATÍSTICAS`
+Tecnologias em diferentes estágios de aprendizado e aplicação prática. Meu foco principal de aprofundamento é Java + Spring Boot.
+04 // DEVELOPMENT_ENVIRONMENT
 
 <div align="center">
-  <img height="175em" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="175em" src="https://vercel.app" alt="Top Languages" />
+
+TOOL	PURPOSE
+☕ Java	Back-end Development
+🍃 Spring Boot	REST API Development
+🐍 Python	Logic & Automation
+🗃️ SQL	Relational Databases
+☁️ AWS	Cloud Computing
+🐳 Docker	Containerization
+🔧 Git & GitHub	Version Control
+📡 Postman	API Testing
+💻 IntelliJ IDEA	Java Development
+⚡ VS Code	Code Editor
+
 </div>
 
-<br/>
+05 // DEPLOYED_PROJECTS
 
 <div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
+
+<a href="https://github.com/guilhermeoliveiraramos/Projeto-PI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermeoliveiraramos&repo=Projeto-PI&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF" />
+</a>
+
 </div>
 
-<br/>
+⚙️ Development Modules
+
+01. Java & Spring Boot API
+
+Arquitetura em camadas.
+Controllers, Services e Repositories.
+Spring Data JPA.
+DTOs e validações.
+Tratamento global de exceções.
+
+02. Python & Automation
+
+Lógica de programação.
+Algoritmos e estruturas de dados.
+Manipulação de informações.
+Automação de processos.
+Os módulos acima representam áreas de desenvolvimento e estudo, não projetos publicados independentes.
+06 // CURRENT_MISSION
+bash
+root@jarvis:~$ ./execute_roadmap.sh
+
+[MISSION 01] Programming Logic & Python
+[████████████████████] 100% COMPLETE
+
+[MISSION 02] AWS Cloud Foundations
+[████████████████████] 100% COMPLETE
+
+[MISSION 03] Java & Spring Boot
+[███████████████░░░░░]  75% IN PROGRESS
+
+[MISSION 04] Databases, Docker & JWT
+[████████████░░░░░░░░]  60% IN PROGRESS
+
+[MISSION 05] AI Integration & Distributed Systems
+[██████████░░░░░░░░░░]  50% IN PROGRESS
+
+-----------------------------------------------
+NEXT OBJECTIVES:
+> Build scalable REST APIs
+> Improve software architecture
+> Deepen AWS knowledge
+> Develop practical projects
+> Explore Artificial Intelligence
+
+STATUS: OPEN TO INTERNSHIP / JUNIOR BACK-END
+-----------------------------------------------
+
+root@jarvis:~$ _
+
+07 // CERTIFICATIONS_DATABASE
 
 <div align="center">
-  <img width="100%" src="https://vercel.app" alt="Activity Graph" />
+
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SENAI-Fundamentos_do_Python_1-005CA9?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SENAI-SP_ADS_2026--2027-00AEEF?style=for-the-badge&logo=academia&logoColor=white" />
+
 </div>
 
-<br/>
-
-<img width="100%" src="https://vercel.app"/>
-
-<!-- ===================================================================== -->
-<!-- 07. NEURAL GRID // SNAKE ANIMATION                                    -->
-<!-- ===================================================================== -->
-## `> 07. NEURAL_GRID // CONTRIBUIÇÕES`
+08 // GITHUB_TELEMETRY
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+
+📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliveiraramos&show_icons=true&count_private=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliveiraramos&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
+
+🔥 Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com?user=guilhermeoliveiraramos&theme=tokyonight&hide_border=true&background=020617&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+
+📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeoliveiraramos&bg_color=020617&color=00E5FF&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20NETWORK%20%7C%20CONTRIBUTION%20ACTIVITY" />
+
+</div>
+
+09 // ACHIEVEMENT_UNLOCKED
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=guilhermeoliveiraramos&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" />
+
+</div>
+
+10 // CONTRIBUTION_MATRIX
+
+<div align="center">
+
+🐍 Neural Activity Visualization
+
+<img width="100%" src="https://raw.githubusercontent.com/guilhermeoliveiraramos/guilhermeoliveiraramos/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
+
+</div>
+
+11 // NETWORK_CONNECTIONS
+
+<div align="center">
+
+Vamos conectar e compartilhar conhecimento!
+
+<a href="https://www.linkedin.com/in/guilherme-oliveira-ramos-376988325/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/guilhermeoliveiraramos">
+<img src="https://img.shields.io/badge/GitHub
